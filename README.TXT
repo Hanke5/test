@@ -6,8 +6,10 @@ all they need to know. The comments should usually include at least:
 
 PROJECT TITLE: starting java
 PURPOSE OF PROJECT: learning java in school
-VERSION or DATE: 0.0.2
+VERSION or DATE: 0.0.3
 HOW TO START THIS PROJECT: idk
 AUTHORS: Hanke
 USER INSTRUCTIONS: idk
 EinAusgabe.jar is required as a java extension to run this program
+
+Will now run Gut genug if all requirements are met
