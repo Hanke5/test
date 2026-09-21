@@ -10,3 +10,4 @@ VERSION or DATE: 0.0.2
 HOW TO START THIS PROJECT: idk
 AUTHORS: Hanke
 USER INSTRUCTIONS: idk
+EinAusgabe.jar is required as a java extension to run this program
